@@ -1,0 +1,25 @@
+{
+  "name": "pcat",
+  "version": "1.0.0",
+  "description": "PCAT Photo App",
+  "keywords": [
+    "photo",
+    "app",
+    "camera"
+  ],
+  "homepage": "https://github.com/absyazilimtek/PCAT#readme",
+  "bugs": {
+    "url": "https://github.com/absyazilimtek/PCAT/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/absyazilimtek/PCAT.git"
+  },
+  "license": "ISC",
+  "author": "Salih Şükrü",
+  "type": "commonjs",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
